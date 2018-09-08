@@ -1,0 +1,7 @@
+{
+  "peers": [
+    { "name": "PEER1", "ip_address": "http://localhost:4000" },
+    { "name": "PEER2", "ip_address": "http://localhost:5000" },
+    { "name": "PEER3", "ip_address": "http://localhost:6000" }
+  ]
+}
